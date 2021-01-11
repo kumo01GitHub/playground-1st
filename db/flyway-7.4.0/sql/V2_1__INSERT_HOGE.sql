@@ -1,0 +1,3 @@
+INSERT INTO HOGE VALUES (1, 'natsume');
+INSERT INTO HOGE VALUES (2, 'dazai');
+INSERT INTO HOGE VALUES (3, 'higuchi');

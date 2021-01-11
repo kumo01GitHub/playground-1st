@@ -1,0 +1,22 @@
+body {
+  margin: 0px;
+  border: 0px;
+  padding: 3px;
+}
+
+#header {
+  width: 100%;
+  border-style: solid;
+}
+
+#main {
+  color: red;
+  border-color: red;
+  border-style: solid;
+  padding: 10px;
+}
+
+#footer {
+  width: 100%;
+  border-style: solid;
+}
